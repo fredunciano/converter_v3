@@ -1,0 +1,108 @@
+#yturl {
+  height: 48px;
+}
+
+.step_icon {
+  width: 112px;
+  margin:  0 auto;
+}
+
+.top-heading {
+  margin-bottom: 35px;
+  width: 100%;
+}
+
+.bg-light {
+  background-color: #f8f9fa!important;
+}
+
+.col-lg-6.order-lg-2.text-white.showcase-img.whychooseimg {
+  background-image: url("../../assets/img/listening.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.col-lg-6.text-white.showcase-img.whychooseimg {
+  background-image: url("../../assets/img/music_mountain.jpg");
+  background-position: left;
+}
+
+#contact-btn {
+  width: 150px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.masthead {
+  background-image: url("../../assets/img/topimg.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+@media (min-width:768px) {
+  header.masthead {
+    /*padding-top: 12rem;*/
+    /*padding-bottom: 12rem;*/
+  }
+}
+
+.call-to-action {
+  background-image: url("../../assets/img/botimg.jpg");
+  opacity: 1;
+  filter: blur(0px);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/*
+#result {
+    background-color:red; 
+    margin:0 auto; 
+    padding-top: 2rem;
+}
+*/
+
+#download-btn {
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 60px;
+}
+
+#res_title {
+  margin-top: 10px;
+  max-width: auto;
+}
+
+#author_thumbnail {
+  margin-top: 10px;
+}
+
+#donload-btn {
+}
+
+#res_thumbnail {
+  width: 350px;
+}
+
+#download-btn {
+  margin-top: 20px;
+}
+
+@media (max-width: 992px){
+ 
+}
+@media (max-width: 767px){}
+
+@media (max-width: 576px){
+ 
+ .res_thumbnail{
+  margin: 0 auto;
+ }
+ }
+    
+}
